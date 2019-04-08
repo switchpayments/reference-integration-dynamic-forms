@@ -1,9 +1,9 @@
 {
   "name": "reference-integration-dynamic-forms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reference integration of the dynamic forms",
   "main": "index.js",
-  "author": "Switch S.A.",
+  "author": "SwitchPayments",
   "license": "MIT",
   "dependencies": {
     "express": "4.16.4",

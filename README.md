@@ -4,7 +4,7 @@
  
  1. Install the dependencies by writing `npm install` in your terminal.
   
- 2. Add your Switch API keys (available in the Dashboard) to the `index.js`.
+ 2. Add your Switch API keys (available in the Dashboard) to `index.js`.
  
  3. In order to start the server, you only need to type `node index.js` in your terminal.
  
